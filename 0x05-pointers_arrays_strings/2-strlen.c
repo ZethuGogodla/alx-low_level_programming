@@ -2,7 +2,7 @@
 /**
  * Task2 - return the length of a string
  * z: char to check
- * Return: 0 
+ *Return:0 
  */
 int _strlen(char *z)
 {
